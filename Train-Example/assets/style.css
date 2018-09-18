@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+}
+
+table {
+	background-color: white;
+}
+
+h3, h2 {
+	text-align: center;
+}
+
+th {
+	width: 10%;
+
+}
+
+label#displayNow {
+text-align: center;
+width: 100%;
+}
